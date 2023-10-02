@@ -1,6 +1,6 @@
 import math
-alas = 12
-tinggi = 5
+alas = 5
+tinggi = 12
 miring = round(math.sqrt(alas*alas + tinggi*tinggi))
 keliling = round (alas+tinggi+miring)
 luas = round (alas*tinggi/2)
