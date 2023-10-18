@@ -6,5 +6,5 @@ luas = float(round(2 * pi * int(jari_jari) * int(jari_jari) + 2 * pi * int(jari_
 keliling = float(round(pi * 2 * int(jari_jari),2))
 
 print("Volume = %.2f" % (volume))
-print("Luas = %.2f", (luas))
-print("Keliling = %.2f", (keliling))
+print("Luas = %.2f" % (luas))
+print("Keliling = %.2f" % (keliling))
